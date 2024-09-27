@@ -6,7 +6,7 @@ dasdigidil is a soldering exercise we use with teens to show them how to solder.
 
 ![picture of a dasdigidil](https://github.com/dasdigidings/dasdigidil/blob/main/pictures/dasdigidil02.jpg)
 
-The dasdigidil looks like a alligator or crocodile and includes two LEDs plus series resistors a on/off switch and a battery holder for a CR2032 battery. The special features are the alligator clip to attach it to your hoodie and the hole to attach a ribbon to it.
+The dasdigidil looks like an alligator or crocodile and includes two LEDs plus series resistors an on/off switch and a battery holder for a CR2032 battery. The special feature is the alligator clip to attach it to your hoodie and also a hole to attach a ribbon of any color on to it.
 
 You will find the files to generate the pcb here in the repo: [Link to ZIP for PCB manufacturing](https://github.com/dasdigidings/dasdigidil/blob/main/20240401_dasdigidil.zip)
 
